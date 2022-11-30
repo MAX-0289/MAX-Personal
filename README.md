@@ -1,6 +1,6 @@
 ![github-banner](./DJI_0381.JPG)
 
-This beautiful theme from the [Matter Design Team](https://matterdesign.com.au/) gives you the styling and scaffolding for your next e-commerce site. You can customize to your heart's content and add the tooling for cart, transactions, product, and more. This theme uses:
+DON'T THINK, FEEL!
 
 - [Gatsby](https://www.gatsbyjs.com/)
 - [CSS Modules](https://github.com/css-modules/css-modules)
